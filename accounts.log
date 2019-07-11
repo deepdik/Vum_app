@@ -1,0 +1,690 @@
+register api called
+<QueryDict: {'name': ['sample1'], 'password': ['12345678'], 'email': ['sample@gmail.com'], 'country_code': ['+91'], 'social_id': [''], 'user_type': ['1'], 'mobile': ['8787632296'], 'device_type': ['1'], 'login_type': ['1'], 'device_token': ['1A2B']}>
+register api called
+<QueryDict: {'social_id': [''], 'login_type': ['1'], 'user_type': ['1'], 'mobile': ['8787632296'], 'name': ['sample1'], 'country_code': ['+91'], 'password': ['12345678'], 'device_token': ['1A2B'], 'email': ['sample@gmail.com'], 'device_type': ['1']}>
+register api called
+<QueryDict: {'name': ['sample1'], 'email': ['sample@gmail.com'], 'device_token': ['1A2B'], 'country_code': ['+91'], 'social_id': [''], 'device_type': ['1'], 'user_type': ['1'], 'login_type': ['1'], 'password': ['12345678'], 'mobile': ['8787632296']}>
+register api called
+<QueryDict: {'name': ['sample1'], 'email': ['sample@gmail.com'], 'device_token': ['1A2B'], 'country_code': ['+91'], 'social_id': [''], 'device_type': ['1'], 'user_type': ['1'], 'login_type': ['1'], 'password': ['12345678'], 'mobile': ['8787632296']}>
+register api called
+<QueryDict: {'mobile': ['8787632296'], 'password': ['12345678'], 'device_token': ['1A2B'], 'device_type': ['1'], 'user_type': ['1'], 'social_id': [''], 'country_code': ['+91'], 'email': ['sample@gmail.com'], 'name': ['sample1'], 'login_type': ['1']}>
+register api called
+<QueryDict: {'mobile': ['8787632296'], 'password': ['12345678'], 'device_token': ['1A2B'], 'device_type': ['1'], 'user_type': ['1'], 'social_id': [''], 'country_code': ['+91'], 'email': ['sample@gmail.com'], 'name': ['sample1'], 'login_type': ['1']}>
+register api called
+<QueryDict: {'device_token': ['1A2B'], 'device_type': ['1'], 'password': ['12345678'], 'mobile': ['8787632296']}>
+register api called
+<QueryDict: {'device_token': ['1A2B'], 'device_type': ['1'], 'password': ['12345678'], 'mobile': ['8787632296']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'mobile': ['8787632296'], 'password': ['12345678'], 'device_token': ['1A2B']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'device_type': ['1'], 'mobile': ['8787632296'], 'password': ['12345678'], 'device_token': ['1A2B']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'device_token': ['1A2B'], 'user_type': ['1'], 'mobile': ['8787632296']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'device_token': ['1A2B'], 'user_type': ['1'], 'mobile': ['8787632296']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'device_token': ['1A2B'], 'user_type': ['2'], 'mobile': ['8787632296']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'device_token': ['1A2B'], 'user_type': ['1'], 'mobile': ['8787632296']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'mobile': ['8787632296'], 'device_token': ['1A2B'], 'device_type': ['1'], 'password': ['12345678']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'mobile': ['8787632297'], 'device_token': ['1A2B'], 'device_type': ['1'], 'password': ['12345678']}>
+User profile get called
+{}
+User profile get called
+{}
+User profile get called
+{}
+User profile post called
+<QueryDict: {'gender': [''], 'alt_mobile_country_code': [''], 'profession': [''], 'postal_code': [''], 'city': [''], 'building_num': [''], 'landmark': [''], 'locality': [''], 'alt_mobile': [''], 'country': [''], 'mobile': ['8787632297'], 'name': ['sample1'], 'country_code': ['+91'], 'email': ['sample@gmail.com']}>
+User profile post called
+<QueryDict: {'alt_mobile_country_code': [''], 'country': [''], 'name': ['sample1'], 'postal_code': [''], 'gender': [''], 'alt_mobile': [''], 'country_code': ['+91'], 'email': ['sample@gmail.com'], 'landmark': [''], 'mobile': ['8787632297'], 'profession': [''], 'building_num': [''], 'locality': [''], 'city': ['']}>
+User profile post called
+<QueryDict: {'locality': [''], 'country_code': ['+91'], 'city': [''], 'gender': [''], 'name': ['sample1'], 'landmark': [''], 'profession': [''], 'email': ['sample@gmail.com'], 'mobile': ['8787632297'], 'alt_mobile_country_code': [''], 'country': [''], 'postal_code': [''], 'alt_mobile': [''], 'building_num': ['']}>
+User profile post called
+<QueryDict: {'locality': [''], 'age': [''], 'country_code': ['+91'], 'city': [''], 'gender': [''], 'name': ['sample1'], 'landmark': [''], 'profession': [''], 'email': ['sample@gmail.com'], 'mobile': ['8787632297'], 'alt_mobile_country_code': [''], 'country': [''], 'postal_code': [''], 'alt_mobile': [''], 'building_num': ['']}>
+User profile post called
+<QueryDict: {'age': [''], 'profession': [''], 'landmark': [''], 'name': ['sample1'], 'city': [''], 'alt_mobile_country_code': [''], 'country_code': ['+91'], 'alt_mobile': [''], 'mobile': ['8787632297'], 'email': ['sample@gmail.com'], 'country': [''], 'locality': [''], 'postal_code': [''], 'building_num': [''], 'gender': ['']}>
+User profile post called
+<QueryDict: {'city': [''], 'email': ['sample@gmail.com'], 'alt_mobile': [''], 'age': [''], 'country_code': ['+91'], 'mobile': ['8787632297'], 'landmark': [''], 'postal_code': [''], 'locality': [''], 'alt_mobile_country_code': [''], 'country': [''], 'building_num': [''], 'gender': [''], 'name': ['sample1'], 'profession': ['']}>
+User profile post called
+<QueryDict: {'building_num': [''], 'name': ['sample1'], 'gender': [''], 'alt_mobile': [''], 'age': [''], 'profession': [''], 'country_code': ['+91'], 'locality': [''], 'country': [''], 'postal_code': [''], 'alt_mobile_country_code': [''], 'mobile': ['8787632297'], 'city': [''], 'landmark': [''], 'email': ['sample@gmail.com']}>
+User profile post called
+<QueryDict: {'mobile': ['8787632297'], 'building_num': [''], 'landmark': [''], 'alt_mobile': [''], 'postal_code': [''], 'alt_mobile_country_code': [''], 'city': [''], 'profession': [''], 'country': [''], 'age': [''], 'gender': [''], 'email': ['sample@gmail.com'], 'name': ['sample1'], 'country_code': ['+91'], 'locality': ['']}>
+User profile post called
+<QueryDict: {'locality': [''], 'alt_mobile_country_code': [''], 'building_num': [''], 'profession': [''], 'postal_code': [''], 'city': [''], 'country_code': ['+91'], 'age': [''], 'landmark': [''], 'email': ['sample@gmail.com'], 'country': [''], 'mobile': ['8787632297'], 'alt_mobile': [''], 'name': ['sample1'], 'gender': ['']}>
+User profile post called
+<QueryDict: {'country_code': ['+91'], 'country': [''], 'postal_code': [''], 'alt_mobile_country_code': [''], 'age': [''], 'mobile': ['8787632297'], 'locality': [''], 'building_num': [''], 'profession': [''], 'gender': [''], 'alt_mobile': [''], 'email': ['sample@gmail.com'], 'city': [''], 'name': ['sample1'], 'landmark': ['']}>
+User profile post called
+<QueryDict: {'age': [''], 'profession': [''], 'postal_code': [''], 'country': [''], 'alt_mobile': [''], 'locality': [''], 'email': ['sample@gmail.com'], 'country_code': ['+91'], 'mobile': ['8787632297'], 'landmark': [''], 'gender': [''], 'alt_mobile_country_code': [''], 'city': [''], 'building_num': [''], 'name': ['sample1']}>
+User profile post called
+<QueryDict: {'country_code': ['+91'], 'country': [''], 'name': ['sample1'], 'alt_mobile_country_code': [''], 'postal_code': [''], 'age': [''], 'email': ['sample@gmail.com'], 'building_num': [''], 'locality': [''], 'mobile': ['8787632297'], 'profession': [''], 'gender': [''], 'city': [''], 'alt_mobile': [''], 'landmark': ['']}>
+User profile post called
+<QueryDict: {'gender': [''], 'locality': [''], 'city': [''], 'age': [''], 'postal_code': [''], 'profession': [''], 'alt_mobile_country_code': [''], 'email': ['sample@gmail.com'], 'building_num': [''], 'landmark': [''], 'mobile': ['8787632297'], 'country_code': ['+91'], 'name': ['sample1'], 'alt_mobile': [''], 'country': ['']}>
+User profile post called
+<QueryDict: {'alt_mobile_country_code': [''], 'locality': [''], 'building_num': [''], 'country': [''], 'country_code': ['+91'], 'postal_code': [''], 'landmark': [''], 'mobile': ['8787632297'], 'city': [''], 'email': ['sample@gmail.com'], 'profession': [''], 'alt_mobile': [''], 'age': [''], 'gender': [''], 'name': ['sample1']}>
+User profile post called
+<QueryDict: {'mobile': ['8787632297'], 'locality': [''], 'profession': [''], 'city': [''], 'country': [''], 'landmark': [''], 'building_num': [''], 'email': ['sample@gmail.com'], 'name': ['sample1'], 'country_code': ['+91'], 'age': [''], 'gender': [''], 'alt_mobile': [''], 'alt_mobile_country_code': [''], 'postal_code': ['']}>
+User profile post called
+<QueryDict: {'gender': [''], 'postal_code': [''], 'mobile': ['8787632297'], 'alt_mobile_country_code': [''], 'age': [''], 'landmark': [''], 'country_code': ['+91'], 'city': [''], 'email': ['sample@gmail.com'], 'locality': [''], 'name': ['sample1'], 'alt_mobile': [''], 'building_num': [''], 'country': [''], 'profession': ['']}>
+User profile post called
+<QueryDict: {'country': [''], 'city': [''], 'landmark': [''], 'profession': [''], 'email': ['sample@gmail.com'], 'mobile': ['8787632297'], 'alt_mobile_country_code': [''], 'gender': [''], 'postal_code': [''], 'age': [''], 'building_num': [''], 'alt_mobile': [''], 'locality': [''], 'country_code': ['+91'], 'name': ['sample1']}>
+User profile get called
+{}
+register api called
+<QueryDict: {'country_code': ['+91'], 'social_id': [''], 'login_type': ['1'], 'mobile': ['8787632296'], 'device_type': ['1'], 'password': ['12345678'], 'category': ['1'], 'device_token': ['1A2C'], 'background': ['1'], 'email': ['sample2@gmail.com'], 'name': ['sample2'], 'user_type': ['2'], 'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>], 'experience': ['5 years']}>
+register api called
+<QueryDict: {'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>], 'password': ['12345678'], 'country_code': ['+91'], 'login_type': ['1'], 'email': ['sample2@gmail.com'], 'user_type': ['2'], 'device_token': ['1A2C'], 'device_type': ['1'], 'mobile': ['8787632296'], 'social_id': [''], 'category': ['1'], 'background': ['1'], 'experience': ['5 years'], 'name': ['sample2']}>
+register api called
+<QueryDict: {'experience': ['5 years'], 'email': ['sample2@gmail.com'], 'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>], 'login_type': ['1'], 'social_id': [''], 'background': ['1'], 'user_type': ['2'], 'device_token': ['1A2C'], 'category': ['1'], 'password': ['12345678'], 'device_type': ['1'], 'mobile': ['8787632296'], 'name': ['sample2'], 'country_code': ['+91']}>
+register api called
+<QueryDict: {'mobile': ['8787632296'], 'login_type': ['1'], 'email': ['sample2@gmail.com'], 'name': ['sample2'], 'password': ['12345678'], 'country_code': ['+91'], 'user_type': ['2'], 'background': ['1'], 'category': ['1'], 'device_token': ['1A2C'], 'device_type': ['1'], 'experience': ['5 years'], 'social_id': [''], 'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>]}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'password': ['12345678'], 'mobile': ['8787632296'], 'device_token': ['1A2C'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'password': ['12345678'], 'mobile': ['8787632296'], 'device_token': ['1A2C'], 'device_type': ['1']}>
+register api called
+<QueryDict: {'device_token': ['1A2C'], 'social_id': [''], 'experience': ['5 years'], 'country_code': ['+91'], 'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>], 'mobile': ['8787632296'], 'password': ['12345678'], 'category': ['1'], 'background': ['1'], 'login_type': ['1'], 'name': ['sample2'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['sample2@gmail.com']}>
+register api called
+<QueryDict: {'device_token': ['1A2C'], 'social_id': [''], 'experience': ['5 years'], 'country_code': ['+91'], 'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>], 'mobile': ['8787632296'], 'password': ['12345678'], 'category': ['1'], 'background': ['1'], 'login_type': ['1'], 'about_me': [''], 'name': ['sample2'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['sample2@gmail.com']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': [''], 'mobile': [''], 'password': [''], 'category': [''], 'background': [''], 'login_type': [''], 'about_me': [''], 'name': [''], 'device_type': [''], 'user_type': [''], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': [''], 'mobile': [''], 'password': [''], 'category': [''], 'background': [''], 'login_type': [''], 'about_me': [''], 'name': ['qq'], 'device_type': [''], 'user_type': [''], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['8787632296'], 'password': [''], 'category': [''], 'background': [''], 'login_type': [''], 'about_me': [''], 'name': ['qq'], 'device_type': [''], 'user_type': [''], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['8787632296'], 'password': [''], 'category': [''], 'background': [''], 'login_type': [''], 'about_me': [''], 'name': ['qq'], 'device_type': [''], 'user_type': ['1'], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['8787632296'], 'password': [''], 'category': [''], 'background': [''], 'login_type': [''], 'about_me': [''], 'name': ['qq'], 'device_type': [''], 'user_type': ['2'], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['8787632296'], 'password': [''], 'category': [''], 'background': [''], 'login_type': [''], 'about_me': [''], 'name': ['qq'], 'device_type': [''], 'user_type': ['1'], 'email': ['qq@gmail.com']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['8787632296'], 'password': ['12345678'], 'category': [''], 'background': [''], 'login_type': [''], 'about_me': [''], 'name': ['qq'], 'device_type': [''], 'user_type': ['1'], 'email': ['qq@gmail.com']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['8787632296'], 'password': ['12345678'], 'category': [''], 'background': [''], 'login_type': ['1'], 'about_me': [''], 'name': ['qq'], 'device_type': [''], 'user_type': ['1'], 'email': ['qq@gmail.com']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['8787632296'], 'password': ['12345678'], 'category': [''], 'background': [''], 'login_type': ['1'], 'about_me': [''], 'name': ['qq'], 'device_type': ['1'], 'user_type': ['1'], 'email': ['qq@gmail.com']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['1111111174'], 'password': ['12345678'], 'category': [''], 'background': [''], 'login_type': ['1'], 'about_me': [''], 'name': ['qq'], 'device_type': ['1'], 'user_type': ['1'], 'email': ['qq@gmail.com']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['1111111174'], 'password': [''], 'category': [''], 'background': [''], 'login_type': ['1'], 'about_me': [''], 'name': ['qqq'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['1111111174'], 'password': [''], 'category': [''], 'background': ['comp'], 'login_type': ['1'], 'about_me': [''], 'name': ['qqq'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': [''], 'country_code': ['+91'], 'mobile': ['1111111174'], 'password': [''], 'category': [''], 'background': ['1'], 'login_type': ['1'], 'about_me': [''], 'name': ['qqq'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': ['2 years'], 'country_code': ['+91'], 'mobile': ['1111111174'], 'password': [''], 'category': [''], 'background': ['1'], 'login_type': ['1'], 'about_me': [''], 'name': ['qqq'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': ['2 years'], 'country_code': ['+91'], 'mobile': ['1111111174'], 'password': [''], 'category': ['1'], 'background': ['1'], 'login_type': ['1'], 'about_me': [''], 'name': ['qqq'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': ['2 years'], 'country_code': ['+91'], 'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>], 'mobile': ['1111111174'], 'password': [''], 'category': ['1'], 'background': ['1'], 'login_type': ['1'], 'about_me': [''], 'name': ['qqq'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': ['2 years'], 'country_code': ['+91'], 'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>], 'mobile': ['1111111174'], 'password': [''], 'category': ['1'], 'background': ['1'], 'login_type': ['1'], 'about_me': ['me cool'], 'name': ['qqq'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': ['2 years'], 'country_code': ['+91'], 'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>], 'mobile': ['1111111174'], 'password': ['12345678'], 'category': ['1'], 'background': ['1'], 'login_type': ['1'], 'about_me': ['me cool'], 'name': ['qqq'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['']}>
+register api called
+<QueryDict: {'device_token': [''], 'social_id': [''], 'experience': ['2 years'], 'country_code': ['+91'], 'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>], 'mobile': ['1111111175'], 'password': ['12345678'], 'category': ['1'], 'background': ['1'], 'login_type': ['1'], 'about_me': ['me cool'], 'name': ['qqq'], 'device_type': ['1'], 'user_type': ['2'], 'email': ['']}>
+User login post called
+<QueryDict: {'device_token': ['1A2C'], 'mobile': ['1111111175'], 'password': ['12345678'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'device_token': ['1A2C'], 'mobile': ['1111111175'], 'password': ['12345678'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'device_token': ['1A2C'], 'mobile': ['1111111174'], 'password': ['12345678'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'device_token': ['1A2C'], 'mobile': ['1111111174'], 'password': ['12345678'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'device_token': ['1A2C'], 'mobile': ['1111111175'], 'password': ['12345678'], 'user_type': ['1'], 'device_type': ['1']}>
+create course post called
+{}
+create course post called
+{}
+User login post called
+<QueryDict: {'user_type': ['1'], 'mobile': ['1111111175'], 'password': ['12345678'], 'device_type': ['1'], 'device_token': ['1A2C']}>
+User login post called
+<QueryDict: {'user_type': ['1'], 'mobile': ['1111111174'], 'device_type': ['1'], 'device_token': ['1A2C'], 'password': ['12345678']}>
+create course post called
+{}
+create course post called
+{}
+create course post called
+{}
+create course post called
+{}
+create course post called
+<QueryDict: {'course_name': [''], 'course_desc': [''], 'course_price': [''], 'is_free': [''], 'is_certificate': [''], 'course_category': ['']}>
+create course post called
+<QueryDict: {'course_name': [''], 'course_desc': [''], 'course_price': [''], 'is_free': [''], 'is_certificate': [''], 'course_category': ['']}>
+create course post called
+<QueryDict: {'course_price': [''], 'course_name': [''], 'course_desc': [''], 'course_category': [''], 'is_free': [''], 'is_certificate': ['']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'user_type': ['2'], 'mobile': ['1111111174'], 'password': ['12345678'], 'device_token': ['1A2C']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'user_type': ['1'], 'mobile': ['1111111174'], 'password': ['12345678'], 'device_token': ['1A2C']}>
+create course post called
+<QueryDict: {'course_name': [''], 'course_desc': [''], 'course_category': [''], 'course_price': [''], 'is_free': [''], 'is_certificate': ['']}>
+create course post called
+<QueryDict: {'is_certificate': [''], 'is_free': [''], 'course_desc': [''], 'course_price': [''], 'course_category': [''], 'course_name': ['']}>
+create course post called
+<QueryDict: {'course_category': [''], 'is_certificate': [''], 'course_name': [''], 'course_desc': [''], 'course_price': [''], 'is_free': ['']}>
+create course post called
+<QueryDict: {'course_desc': [''], 'is_certificate': [''], 'is_free': [''], 'course_price': [''], 'course_name': [''], 'course_category': ['']}>
+create course post called
+<QueryDict: {'course_desc': [''], 'course_category': [''], 'course_name': [''], 'course_price': [''], 'is_certificate': [''], 'is_free': ['']}>
+create course post called
+<QueryDict: {'is_certificate': [''], 'course_desc': [''], 'course_name': [''], 'course_category': [''], 'is_free': [''], 'course_price': ['']}>
+create course post called
+<QueryDict: {'is_certificate': [''], 'course_desc': [''], 'course_name': [''], 'course_category': [''], 'is_free': [''], 'course_price': ['']}>
+create course post called
+<QueryDict: {'is_free': [''], 'course_price': [''], 'course_name': [''], 'course_desc': [''], 'course_category': [''], 'is_certificate': ['']}>
+create course post called
+<QueryDict: {'course_category': [''], 'course_name': [''], 'is_certificate': [''], 'course_price': [''], 'course_desc': [''], 'is_free': ['']}>
+create course post called
+<QueryDict: {'is_free': [''], 'is_certificate': [''], 'course_category': [''], 'course_desc': [''], 'course_name': [''], 'course_price': ['']}>
+create course post called
+<QueryDict: {'is_certificate': [''], 'is_free': [''], 'course_desc': [''], 'course_name': [''], 'course_category': [''], 'course_price': ['']}>
+create course post called
+<QueryDict: {'course_category': [''], 'is_free': [''], 'course_name': [''], 'is_certificate': [''], 'course_desc': [''], 'course_price': ['']}>
+create course post called
+<QueryDict: {'course_price': [''], 'is_free': [''], 'course_name': [''], 'course_desc': [''], 'course_category': [''], 'is_certificate': ['']}>
+create course post called
+<QueryDict: {'course_price': [''], 'is_free': [''], 'course_name': [''], 'course_desc': [''], 'course_category': [''], 'is_certificate': ['']}>
+create course post called
+<QueryDict: {'course_price': [''], 'course_name': [''], 'is_free': [''], 'is_certificate': [''], 'course_category': [''], 'course_desc': ['']}>
+create course post called
+<QueryDict: {'course_price': [''], 'course_name': ['www'], 'is_certificate': ['0'], 'course_category': ['1'], 'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'is_free': ['1'], 'course_desc': ['www']}>
+create course post called
+<QueryDict: {'is_certificate': ['0'], 'course_desc': ['www'], 'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'course_price': [''], 'course_category': ['1'], 'course_name': ['www'], 'is_free': ['1']}>
+create course post called
+<QueryDict: {'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'is_certificate': ['0'], 'course_price': [''], 'course_desc': ['www'], 'course_category': ['1'], 'course_name': ['www'], 'is_free': ['1']}>
+create course post called
+<QueryDict: {'course_price': [''], 'is_certificate': ['0'], 'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'course_category': ['1'], 'course_desc': ['www'], 'is_free': ['1'], 'course_name': ['www']}>
+create course post called
+<QueryDict: {'course_category': ['1'], 'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'course_name': ['www'], 'is_certificate': ['0'], 'is_free': ['1'], 'course_price': [''], 'course_desc': ['www']}>
+create course post called
+<QueryDict: {'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'is_certificate': ['0'], 'course_desc': ['www'], 'course_name': ['www'], 'is_free': ['1'], 'course_price': [''], 'course_category': ['1']}>
+create course post called
+<QueryDict: {'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'is_certificate': ['0'], 'course_desc': ['www'], 'course_name': ['www'], 'is_free': ['1'], 'course_price': [''], 'course_category': ['1']}>
+create course post called
+<QueryDict: {'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'is_free': ['1'], 'is_certificate': ['0'], 'course_name': ['www'], 'course_desc': ['www'], 'course_category': ['1'], 'course_price': ['']}>
+create course post called
+<QueryDict: {'course_category': ['1'], 'course_name': ['www'], 'is_free': ['1'], 'is_certificate': ['0'], 'course_desc': ['www'], 'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'course_price': ['']}>
+create course post called
+<QueryDict: {'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'is_free': ['1'], 'course_category': ['1'], 'is_certificate': ['0'], 'course_name': ['www'], 'course_price': [''], 'course_desc': ['www']}>
+create course post called
+<QueryDict: {'course_category': ['1'], 'is_free': ['1'], 'course_desc': ['www'], 'course_name': ['www'], 'course_price': [''], 'is_certificate': ['0'], 'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>]}>
+create course post called
+<QueryDict: {'is_free': ['1'], 'course_desc': ['www'], 'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'course_price': [''], 'course_category': ['1'], 'course_name': ['www'], 'is_certificate': ['0']}>
+create course post called
+<QueryDict: {'course_price': [''], 'course_category': ['1'], 'is_free': ['1'], 'course_name': ['www'], 'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'course_desc': ['www'], 'is_certificate': ['0']}>
+create course post called
+<QueryDict: {'course_price': [''], 'course_category': ['1'], 'is_free': ['1'], 'course_name': ['www'], 'course_cover_image': [<InMemoryUploadedFile: cat.png (image/png)>], 'course_desc': ['www'], 'is_certificate': ['0']}>
+User login post called
+<QueryDict: {'device_token': ['1A2C'], 'mobile': ['1111111175'], 'device_type': ['1'], 'password': ['12345678'], 'user_type': ['1']}>
+User login post called
+<QueryDict: {'mobile': ['1111111175'], 'password': ['12345678'], 'device_token': ['1A2C'], 'user_type': ['1'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'mobile': ['1111111175'], 'password': ['12345678'], 'device_token': ['1A2C'], 'user_type': ['2'], 'device_type': ['1']}>
+create course post called
+<QueryDict: {'course_price': [''], 'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0'], 'course_name': ['C#'], 'is_certificate': ['1'], 'course_category': ['']}>
+create course post called
+<QueryDict: {'course_price': [''], 'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0'], 'course_name': ['C#'], 'is_certificate': ['1'], 'course_category': ['']}>
+create course post called
+<QueryDict: {'course_price': [''], 'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0'], 'course_name': ['C#'], 'is_certificate': ['1'], 'course_category': ['']}>
+create course post called
+<QueryDict: {'course_desc': ['This is course for Ms.Net with C#'], 'is_free': ['0'], 'course_category': [''], 'course_price': [''], 'is_certificate': ['1'], 'course_name': ['C#'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>]}>
+create course post called
+<QueryDict: {'course_category': [''], 'course_desc': ['This is course for Ms.Net with C#'], 'is_certificate': ['1'], 'course_price': [''], 'is_free': ['0'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_name': ['C#']}>
+create course post called
+<QueryDict: {'course_name': ['C#'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_price': [''], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_certificate': ['1'], 'is_free': ['0'], 'course_category': ['']}>
+create course post called
+<QueryDict: {'is_certificate': ['1'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_desc': ['This is course for Ms.Net with C#'], 'course_name': ['C#'], 'course_category': [''], 'is_free': ['0'], 'course_price': ['']}>
+create course post called
+<QueryDict: {'course_name': ['C#'], 'is_certificate': ['1'], 'course_category': [''], 'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0'], 'course_price': ['']}>
+create course post called
+<QueryDict: {'course_name': ['C#'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_price': [''], 'is_certificate': ['1'], 'course_category': [''], 'is_free': ['0']}>
+create course post called
+<QueryDict: {'course_price': [''], 'course_category': [''], 'course_name': ['C#'], 'is_certificate': ['1'], 'course_desc': ['This is course for Ms.Net with C#'], 'is_free': ['0'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>]}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_price': [''], 'course_category': [''], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_certificate': ['1'], 'course_name': ['C#'], 'course_desc': ['This is course for Ms.Net with C#']}>
+create course post called
+<QueryDict: {'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_price': [''], 'course_name': ['C#'], 'is_certificate': ['1'], 'course_category': [''], 'course_desc': ['This is course for Ms.Net with C#'], 'is_free': ['0']}>
+create course post called
+<QueryDict: {'course_desc': ['This is course for Ms.Net with C#'], 'is_free': ['0'], 'course_price': [''], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_certificate': ['1'], 'course_name': ['C#'], 'course_category': ['']}>
+create course post called
+<QueryDict: {'is_certificate': ['1'], 'is_free': ['0'], 'course_name': ['C#'], 'course_price': [''], 'course_category': [''], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_desc': ['This is course for Ms.Net with C#']}>
+create course post called
+<QueryDict: {'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0'], 'course_name': ['C#'], 'course_price': [''], 'is_certificate': ['1'], 'course_category': ['']}>
+create course post called
+<QueryDict: {'course_category': [''], 'course_desc': ['This is course for Ms.Net with C#'], 'course_price': [''], 'course_name': ['C#'], 'is_certificate': ['1'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0']}>
+create course post called
+<QueryDict: {'course_category': [''], 'course_desc': ['This is course for Ms.Net with C#'], 'course_price': ['2'], 'course_name': ['C#'], 'is_certificate': ['1'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0']}>
+create course post called
+<QueryDict: {'course_category': ['1'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_price': ['2'], 'course_name': ['C#'], 'is_certificate': ['1'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0']}>
+create course post called
+<QueryDict: {'course_name': ['C#'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0'], 'is_certificate': ['1'], 'course_price': ['2'], 'course_category': ['1']}>
+create course post called
+<QueryDict: {'course_price': ['2'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0'], 'is_certificate': ['1'], 'course_name': ['C#'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_category': ['1']}>
+create course post called
+<QueryDict: {'course_price': ['2'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_desc': ['This is course for Ms.Net with C#'], 'course_category': ['1'], 'is_certificate': ['1'], 'is_free': ['0'], 'course_name': ['C#']}>
+create course post called
+<QueryDict: {'course_price': ['2'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_desc': ['This is course for Ms.Net with C#'], 'course_category': ['1'], 'is_certificate': ['1'], 'is_free': ['0'], 'course_name': ['C#']}>
+create course post called
+<QueryDict: {'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_price': ['2'], 'is_certificate': ['1'], 'course_category': ['1'], 'is_free': ['0'], 'course_name': ['C#'], 'course_desc': ['This is course for Ms.Net with C#']}>
+create course post called
+<QueryDict: {'course_name': ['C#'], 'course_category': ['1'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_free': ['0'], 'course_price': ['2'], 'is_certificate': ['1']}>
+create course post called
+<QueryDict: {'course_price': ['2'], 'is_certificate': ['1'], 'course_category': ['1'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_name': ['C#'], 'is_free': ['0'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>]}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_category': ['1'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_certificate': ['1'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_price': ['2'], 'course_name': ['C#']}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_category': ['1'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'is_certificate': ['1'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_price': ['2'], 'course_name': ['C#']}>
+create course post called
+<QueryDict: {'course_category': ['1'], 'is_certificate': ['1'], 'course_price': ['2'], 'course_name': ['C#'], 'is_free': ['0'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_desc': ['This is course for Ms.Net with C#']}>
+create course post called
+<QueryDict: {'course_price': ['2'], 'is_free': ['0'], 'course_category': ['1'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_name': ['C#'], 'course_desc': ['This is course for Ms.Net with C#'], 'is_certificate': ['1']}>
+create course post called
+<QueryDict: {'course_name': ['C#'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_category': ['1'], 'is_free': ['0'], 'course_desc': ['This is course for Ms.Net with C#'], 'is_certificate': ['1'], 'course_price': ['2']}>
+create course post called
+<QueryDict: {'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_desc': ['This is course for Ms.Net with C#'], 'course_category': ['1'], 'is_free': ['0'], 'course_price': ['2'], 'is_certificate': ['1'], 'course_name': ['C#']}>
+create course post called
+<QueryDict: {'is_certificate': ['1'], 'is_free': ['0'], 'course_name': ['C#'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_category': ['1'], 'course_cover_image': [<InMemoryUploadedFile: favicon.png (image/png)>], 'course_price': ['2']}>
+create course post called
+<QueryDict: {'is_certificate': ['1'], 'is_free': ['0'], 'course_name': ['C#'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_category': ['1'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_price': ['2']}>
+create course post called
+<QueryDict: {'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'is_free': ['0'], 'course_desc': ['This is course for Ms.Net with C#'], 'is_certificate': ['1'], 'course_price': ['2'], 'course_name': ['C#'], 'course_category': ['1']}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_price': ['2'], 'is_certificate': ['1'], 'course_name': ['C#'], 'course_category': ['1']}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_price': ['2'], 'is_certificate': ['1'], 'course_name': ['C#'], 'course_category': ['1']}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_name': ['C#'], 'course_price': ['2'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_category': ['1'], 'course_desc': ['This is course for Ms.Net with C#'], 'is_certificate': ['1']}>
+create course post called
+<QueryDict: {'course_desc': ['This is course for Ms.Net with C#'], 'is_certificate': ['1'], 'course_price': ['2'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_category': ['1'], 'is_free': ['0'], 'course_name': ['C#']}>
+create course post called
+<QueryDict: {'course_name': ['C#'], 'course_category': ['1'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_price': ['2'], 'course_desc': ['This is course for Ms.Net with C#'], 'is_certificate': ['1'], 'is_free': ['0']}>
+create course post called
+<QueryDict: {'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_desc': ['This is course for Ms.Net with C#'], 'is_certificate': ['1'], 'is_free': ['0'], 'course_name': ['C#'], 'course_category': ['1'], 'course_price': ['2']}>
+Inside Course List View list
+Inside Course List View list
+Inside Course List View list
+Inside Course Review post
+Inside Course Review post
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+register api called
+<QueryDict: {'declaration': [<InMemoryUploadedFile: resume (application/octet-stream)>], 'about_me': ['me cool'], 'password': ['12345678'], 'login_type': ['1'], 'experience': ['2 years'], 'social_id': [''], 'mobile': ['1111111175'], 'email': [''], 'user_type': ['2'], 'country_code': ['+91'], 'category': ['1'], 'background': ['1'], 'device_type': ['1'], 'name': ['qqq'], 'device_token': ['']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+User login post called
+<QueryDict: {'device_token': ['1A2C'], 'user_type': ['2'], 'mobile': ['1111111175'], 'device_type': ['1'], 'password': ['12345678']}>
+User login post called
+<QueryDict: {'device_token': ['1A2C'], 'user_type': ['1'], 'mobile': ['1111111175'], 'device_type': ['1'], 'password': ['12345678']}>
+User login post called
+<QueryDict: {'device_token': ['1A2C'], 'user_type': ['1'], 'mobile': ['1111111174'], 'device_type': ['1'], 'password': ['12345678']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'points': ['5'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good mentor'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good mentor'], 'points': ['5']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good mentor'], 'points': ['5']}>
+Inside Mentor Review post
+<QueryDict: {'desc': ['good mentor'], 'points': ['5']}>
+Inside Video Review post
+<QueryDict: {'desc': ['good mentor'], 'points': ['5']}>
+Inside Video Review post
+<QueryDict: {'desc': ['good mentor'], 'points': ['5']}>
+Inside Video Review post
+<QueryDict: {'desc': ['good mentor'], 'points': ['500']}>
+Inside Video Review post
+<QueryDict: {'desc': ['good mentor'], 'points': ['500']}>
+Inside Video Review post
+<QueryDict: {'desc': ['good mentor'], 'points': ['500']}>
+Inside Video Review post
+<QueryDict: {'desc': ['good video'], 'points': ['5']}>
+create course post called
+<QueryDict: {'course_category': ['1'], 'course_price': ['2'], 'is_certificate': ['1'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_name': ['C++'], 'course_desc': ['This is course for C++'], 'is_free': ['0']}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_name': ['C'], 'course_category': ['1'], 'course_desc': ['This is course for C'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_price': ['2'], 'is_certificate': ['1']}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_name': ['C'], 'course_category': ['1'], 'course_desc': ['This is course for C'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_price': ['2'], 'is_certificate': ['1']}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_name': ['C#'], 'course_category': ['1'], 'course_desc': ['This is course for Ms.Net with C#'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_price': ['2'], 'is_certificate': ['1']}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_name': ['C'], 'course_category': ['1'], 'course_desc': ['This is course for C'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_price': ['2'], 'is_certificate': ['1']}>
+create course post called
+<QueryDict: {'is_free': ['0'], 'course_name': ['C'], 'course_category': ['1'], 'course_desc': ['This is a course on C language'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_price': [''], 'is_certificate': ['1']}>
+create course post called
+<QueryDict: {'is_free': ['1'], 'course_name': ['C'], 'course_category': ['1'], 'course_desc': ['This is a course on C language'], 'course_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'course_price': [''], 'is_certificate': ['1']}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Course List View list
+Inside Course Review post
+<QueryDict: {'points': ['3'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'points': ['3'], 'desc': ['good course']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['3']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'device_token': ['1A2C'], 'user_type': ['1'], 'password': ['12345678'], 'mobile': ['8787632297']}>
+Inside Course Review post
+<QueryDict: {'desc': ['good course'], 'points': ['3']}>
+Inside Review list by course get
+{}
+Inside Review list by mentor get
+{}
+Inside Review list by mentor get
+{}
+Inside Review list by video get
+{}
+Inside wishlist View list
+Inside wishlist View list
+Inside wishlist View list
+Inside wishlist View list
+Inside wishlist View list
+Inside wishlist View list
+Inside wishlist View list
+Inside wishlist View list
+Inside wishlist View list
+Inside wishlist View list
+Inside wishlist View list
+Inside wishlist View list
+User login post called
+<QueryDict: {'mobile': ['8787632297'], 'device_token': ['1A2C'], 'device_type': ['1'], 'user_type': ['1'], 'password': ['12345678']}>
+Inside wishlist View list
+Inside wishlist View list
+Mentor home get called
+{}
+User login post called
+<QueryDict: {'password': ['12345678'], 'mobile': ['8787632296'], 'device_type': ['1'], 'user_type': ['1'], 'device_token': ['1A2C']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'mobile': ['8787632296'], 'device_type': ['1'], 'user_type': ['1'], 'device_token': ['1A2C']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'mobile': ['8787632296'], 'device_type': ['1'], 'user_type': ['2'], 'device_token': ['1A2C']}>
+Mentor home get called
+{}
+Mentor home get called
+{}
+Specific Mentor post get called
+{}
+Specific Mentor post get called
+{}
+Specific Mentor post get called
+{}
+Mentor home get called
+{}
+Mentor home get called
+{}
+Mentor home get called
+{}
+Mentee home get called
+{}
+Following Mentor post list get called
+{}
+User login post called
+<QueryDict: {'user_type': ['1'], 'password': ['12345678'], 'device_token': ['1A2C'], 'device_type': ['1'], 'mobile': ['8787632297']}>
+Following Mentor post list get called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+Mentor home search post called
+{}
+User login post called
+<QueryDict: {'mobile': ['8787632297'], 'device_token': ['1A2C'], 'user_type': ['1'], 'password': ['12345678'], 'device_type': ['1']}>
+User login post called
+<QueryDict: {'device_type': ['1'], 'password': ['12345678'], 'user_type': ['1'], 'mobile': ['8787632297'], 'device_token': ['1A2C']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'user_type': ['1'], 'mobile': ['8787632297'], 'device_type': ['1'], 'device_token': ['1A2C']}>
+User login post called
+<QueryDict: {'password': ['12345678'], 'device_token': ['1A2C'], 'user_type': ['2'], 'device_type': ['1'], 'mobile': ['8787632296']}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction'], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>]}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction'], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_desc': ['Introduction'], 'video_title': ['Hello']}>
+Inside Add Video post
+<QueryDict: {'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>], 'video_title': ['Hello'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_desc': ['Introduction']}>
+Inside Add Video post
+<QueryDict: {'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_title': ['Hello'], 'video_desc': ['Introduction'], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+User login post called
+<QueryDict: {'mobile': ['8787632297'], 'device_type': ['1'], 'user_type': ['1'], 'password': ['12345678'], 'device_token': ['1A2C']}>
+Inside Add Video post
+<QueryDict: {'video_title': ['v1'], 'video_desc': ['v1'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_title': ['v2'], 'video_desc': ['v2'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>
+Inside Add Video post
+<QueryDict: {'video_title': ['v3'], 'video_desc': ['v3'], 'video_cover_image': [<InMemoryUploadedFile: 1.png (image/png)>], 'video_file': [<InMemoryUploadedFile: file_example_MP4_480_1_5MG.mp4 (video/mp4)>]}>

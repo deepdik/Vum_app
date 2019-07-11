@@ -1,0 +1,14 @@
+Server ip= 3.130.112.67 
+ user= fluper 
+ password= Vuma_Flup3r@xyz
+
+
+
+
+sudo systemctl daemon-reload
+sudo systemctl restart gunicorn
+sudo nginx -t && sudo systemctl restart nginx
+
+ssh fluper@3.130.112.67
+
+GRANT ALL ON VumaAppDB.* TO 'VumaAppDBAdmin'@'localhost' IDENTIFIED BY 'Vuma@Fluper123';
